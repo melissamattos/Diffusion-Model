@@ -41,7 +41,7 @@ Make sure you have the following folder structure in the data directory:
 /your_project/
 │── main.py                  
 │── config.py  
-|── requirements.txt
+│── requirements.txt
 │── models/
 │   ├── __init__.py          
 │   ├── ddpm.py              
@@ -116,7 +116,7 @@ The images will be stored in the `generated_images/` folder. Ensure this directo
 The notebooks `DDPM_cosine.ipynb` and `how_to_use.ipynb` can be used to visualize the model's behavior and better understand its execution.
 
 
-## Contribution
+## Contribution and Reference
 
 You can see more in https://github.com/Jackson-Kang/Pytorch-Diffusion-Model-Tutorial. Feel free to contribute improvements to the code or documentation. To do so, fork the repository, create a branch, and submit a pull request.
 
